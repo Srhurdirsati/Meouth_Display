@@ -19,12 +19,39 @@ Think of it as a **minimalist smart desk clock*(  that never distracts, looks aw
 
 ---
 
-## 🛠️ Hardware I used  
-- [Seeed Studio XIAO RP2040](https://wiki.seeedstudio.com/XIAO-RP2040/)
+## Images 
 
-- [4.2″ Black & White e-Paper Display (SSD1683)](https://robu.in/product/4-2-inch-high-refresh-rate-black-and-white-e-paper-display/)
+<img width="934" height="458" alt="Screenshot from 2025-09-04 10-51-11" src="https://github.com/user-attachments/assets/6e78ad2e-aa5f-498a-a266-02564eb537b9" />
+
+<img width="1920" height="1080" alt="Screenshot from 2025-09-04 12-28-22" src="https://github.com/user-attachments/assets/c31b01fb-e424-47e7-a4ba-a780cd50f649" />
+
+<img width="1920" height="1080" alt="Screenshot from 2025-09-04 12-29-07" src="https://github.com/user-attachments/assets/2647cae9-ab1b-44bb-9bbc-3cbb62ad3afd" />
+
+<img width="1920" height="1080" alt="Screenshot from 2025-09-04 12-42-15" src="https://github.com/user-attachments/assets/617945bf-d291-4132-830d-dbc3be3cc653" />
+
+<img width="1920" height="1080" alt="Screenshot from 2025-09-04 12-42-28" src="https://github.com/user-attachments/assets/bc080120-3b1a-4509-965e-da5e11e39fb2" />
+<img width="742" height="634" alt="Screenshot from 2025-09-04 10-52-03" src="https://github.com/user-attachments/assets/c60cccf2-c7af-40dc-b9fe-439d4aac0d9f" />
+
+<img width="806" height="657" alt="Screenshot from 2025-09-04 10-54-39" src="https://github.com/user-attachments/assets/3f0c7f29-b90b-4d38-912c-195d9d593a08" />
+
+<img width="889" height="734" alt="Screenshot from 2025-09-04 10-54-50" src="https://github.com/user-attachments/assets/4fa1b555-9b31-456c-961b-bd571af451a6" />
+
+<img width="919" height="942" alt="Screenshot from 2025-09-04 10-55-08" src="https://github.com/user-attachments/assets/21eec221-ed9b-4cd1-b93d-b9e8f08bea08" />
+
+<img width="745" height="850" alt="Screenshot from 2025-09-04 10-51-38" src="https://github.com/user-attachments/assets/fb1eaa44-eb1b-46af-bc9f-798ab3d2fa82" />
+
+## 🛠️ Hardware I used  
+- [Seeed Studio XIAO RP2040](https://wiki.seeedstudio.com/XIAO-RP2040/)- By HQ
+
+- [4.2″ Black & White e-Paper Display (SSD1683)](https://robu.in/product/4-2-inch-high-refresh-rate-black-and-white-e-paper-display/) - $28.38
   
-- A simple USB-C cable for XIAO
+- A simple USB-C cable for XIAO - I managed it from a corner of my house . ~$2
+
+- PCB - JLCPCB - $34 
+
+```
+Total - ~$68
+```
 
 ---
 
