@@ -1,4 +1,4 @@
-# 🖥️ E-Paper Desk Display with Seeed XIAO RP2040  
+# Meouth_Display  
 
 Hey BOSS , Look what I've made , another cool project
 
