@@ -1,6 +1,6 @@
 **Project Name:** Meouth_Display
 **Author:** Rudra Mishra  
-**Total Time Spent:** ~14 hours  
+**Total Time Spent:** ~16.5 hours  
 **Duration:** 3rd September 2025 – 5th September 2025  
 
 ## Description  
@@ -43,7 +43,7 @@ Now the CAD one , i have a potato PC (i3 2100 and no gpu) so i took FreeCAD as b
 <img width="1920" height="1080" alt="Screenshot from 2025-09-04 12-42-28" src="https://github.com/user-attachments/assets/bc080120-3b1a-4509-965e-da5e11e39fb2" />
 
 
-### 5th September 2025: Finishd the JLCPCB work and GitHub Repo Completed 
+### 5th September 2025: Finishd the JLCPCB work and GitHub Repo Completed [3 hours]
 
 Good evening , another day , today was simple , i didn't need to do much work today as only the Github And JLCPCB work was left for this project to be finished . So i did it and now all done . I spent 3.5 Hours on github and rest on JLCPCB
 
