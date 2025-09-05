@@ -21,9 +21,9 @@ Think of it as a **minimalist smart desk clock*(  that never distracts, looks aw
 
 ## 🛠️ Hardware I used  
 - [Seeed Studio XIAO RP2040](https://wiki.seeedstudio.com/XIAO-RP2040/)
-- 
+
 - [4.2″ Black & White e-Paper Display (SSD1683)](https://robu.in/product/4-2-inch-high-refresh-rate-black-and-white-e-paper-display/)
-- 
+  
 - A simple USB-C cable for XIAO
 
 ---
